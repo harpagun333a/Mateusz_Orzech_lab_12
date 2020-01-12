@@ -20,7 +20,7 @@ namespace Cwiczenie_3
             if (!done)
             {
                 done = true;
-                Console.WriteLine("Done");
+                Console.WriteLine("Done"); // Zostanie wywołany raz, ponieważ zmienna done zostanie zmieniona w jednym wątku zanim drugi wejdzie w ifa
             }
         }
     }
