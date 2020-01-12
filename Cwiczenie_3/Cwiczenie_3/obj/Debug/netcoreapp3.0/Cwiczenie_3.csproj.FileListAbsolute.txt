@@ -1,0 +1,10 @@
+D:\Studia\SiSzarp\GIT\Mateusz_Orzech_lab_12\Cwiczenie_3\Cwiczenie_3\bin\Debug\netcoreapp3.0\Cwiczenie_3.exe
+D:\Studia\SiSzarp\GIT\Mateusz_Orzech_lab_12\Cwiczenie_3\Cwiczenie_3\bin\Debug\netcoreapp3.0\Cwiczenie_3.deps.json
+D:\Studia\SiSzarp\GIT\Mateusz_Orzech_lab_12\Cwiczenie_3\Cwiczenie_3\bin\Debug\netcoreapp3.0\Cwiczenie_3.runtimeconfig.json
+D:\Studia\SiSzarp\GIT\Mateusz_Orzech_lab_12\Cwiczenie_3\Cwiczenie_3\bin\Debug\netcoreapp3.0\Cwiczenie_3.runtimeconfig.dev.json
+D:\Studia\SiSzarp\GIT\Mateusz_Orzech_lab_12\Cwiczenie_3\Cwiczenie_3\bin\Debug\netcoreapp3.0\Cwiczenie_3.dll
+D:\Studia\SiSzarp\GIT\Mateusz_Orzech_lab_12\Cwiczenie_3\Cwiczenie_3\bin\Debug\netcoreapp3.0\Cwiczenie_3.pdb
+D:\Studia\SiSzarp\GIT\Mateusz_Orzech_lab_12\Cwiczenie_3\Cwiczenie_3\obj\Debug\netcoreapp3.0\Cwiczenie_3.AssemblyInfoInputs.cache
+D:\Studia\SiSzarp\GIT\Mateusz_Orzech_lab_12\Cwiczenie_3\Cwiczenie_3\obj\Debug\netcoreapp3.0\Cwiczenie_3.AssemblyInfo.cs
+D:\Studia\SiSzarp\GIT\Mateusz_Orzech_lab_12\Cwiczenie_3\Cwiczenie_3\obj\Debug\netcoreapp3.0\Cwiczenie_3.dll
+D:\Studia\SiSzarp\GIT\Mateusz_Orzech_lab_12\Cwiczenie_3\Cwiczenie_3\obj\Debug\netcoreapp3.0\Cwiczenie_3.pdb
